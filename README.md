@@ -32,4 +32,8 @@ Recall | 1 |
 ![Screenshot (8)](https://user-images.githubusercontent.com/97932221/217462987-72fa3c85-9558-4d01-ba01-26a7040c8aa4.png)
 
 ## VI. Conclusion: 
-Siamese neural network model gave high accuracy of 24
+Siamese neural network model gave high accuracy for facial recognition, If you have Higher version or atleast Nvidia graphics card(GPU is used for Processing Image optimally and also at faster rate), Personal Idea(You can use pretrained model and fit input siamese twin image and siamese layer and train it if you have GPU available, as I have ryzen 5 CPU it took around nearly 2 days to train usage of pretrained model like vgg, inception, efficienet, etc to attain peak accuracy and efficient model for classification). 
+
+Link for pretrained Model: https://keras.io/api/applications/ 
+
+Happy Coding !!
