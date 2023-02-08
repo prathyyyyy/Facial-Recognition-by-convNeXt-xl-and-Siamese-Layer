@@ -16,10 +16,20 @@ Siamese network takes two different inputs passed through two similar subnetwork
 4. Test, evaluate and predict. 
 5. Integrate it with kivy app. 
 
-## III. Output 
+## III. Project Tools: 
+Tensorflow, Keras, OpenCV, Kivy
+
+## IV. Project Architecture:
+
+![](https://bloglunit.files.wordpress.com/2017/05/siamese_nn.png?w=740)
+
+## V. Output 
 
 Precision | 1 |
 --- | --- | 
 Recall | 1 |
 
+![Screenshot (8)](https://user-images.githubusercontent.com/97932221/217462987-72fa3c85-9558-4d01-ba01-26a7040c8aa4.png)
 
+## VI. Conclusion: 
+Siamese neural network model gave high accuracy of 24
