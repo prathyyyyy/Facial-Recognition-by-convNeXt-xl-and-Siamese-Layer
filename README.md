@@ -1,4 +1,4 @@
-# Facial-Recoginition-by-siamese-neural-network
+# Facial-Recoginition-By-Siamese-Neural-Network
 
 ## I. Introduction: 
 
