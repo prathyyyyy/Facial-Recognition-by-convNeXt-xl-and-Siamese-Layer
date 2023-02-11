@@ -7,6 +7,7 @@ This project is to implement facial recognition by siamese neural network for on
 
 Siamese network takes two different inputs passed through two similar subnetworks with the same architecture, parameters, and weights. The two subnetworks are a mirror image of each other, just like the Siamese twins. Positive data pair is when both the inputs are the same, and a negative pair is when the two inputs are dissimilar.
 
+### PaperLink: https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 
 ![](https://miro.medium.com/max/1158/1*B7wXpu52WCYgVYz97zXhHA.jpeg)
 
