@@ -42,7 +42,7 @@ Precision | 0.99 |
 --- | --- | 
 Recall | 0.985 |
 
-![Screenshot (8)](https://user-images.githubusercontent.com/97932221/217462987-72fa3c85-9558-4d01-ba01-26a7040c8aa4.png)
+
 
 ## VI. Conclusion: 
 
